@@ -2,3 +2,4 @@
 Git has a mutable index called stage.
 Git tracks changes.
 allal啦啦啦
+这是要提交到远程仓库的内容哦
